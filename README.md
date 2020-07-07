@@ -72,9 +72,7 @@
   <div id="green">
     <div class="container">
       <div class="row">
-        <div class="col-lg-5 centered">
-          <img src="./website/img/iphone.png" alt="">
-        </div>
+
 
         <div class="col-lg-7 centered">
           <h3>このページについて?</h3>
