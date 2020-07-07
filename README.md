@@ -113,7 +113,6 @@
         <p><button type="button" class="btn btn-theme btn-lg"><a href="#">Back to Top!</a></button></p>
       </div>
     </div>
-  </div>
 
 
   <div id="copyrights">
