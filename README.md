@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="jp">
 <head>
   <meta charset="SHIFT-JIS">
@@ -74,7 +73,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-5 centered">
-          <img src="img/iphone.png" alt="">
+          <img src="./website/img/iphone.png" alt="">
         </div>
 
         <div class="col-lg-7 centered">
