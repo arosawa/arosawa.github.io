@@ -92,26 +92,26 @@
       <h3>OUR OPEN DATA</h3>
       <div class="mt"></div>
       <div class="col-lg-4">
-        <a href="#"><img src="img/01.jpg" alt="講義スライド"></a>
+        <a href="#"><img src="./website/img/01.jpg" alt="講義スライド"></a>
       </div>
       <div class="col-lg-4">
-        <a href="#"><img src="img/02.jpg" alt="学生作成のオープンデータ1"></a>
+        <a href="#"><img src="./website/img/02.jpg" alt="学生作成のオープンデータ1"></a>
       </div>
       <div class="col-lg-4">
-        <a href="#"><img src="img/03.jpg" alt=""></a>
+        <a href="#"><img src="./website/img/03.jpg" alt=""></a>
       </div>
     </div>
 
     <div class="row centered mt grid">
       <div class="mt"></div>
       <div class="col-lg-4">
-        <a href="#"><img src="img/04.jpg" alt=""></a>
+        <a href="#"><img src="./website/img/04.jpg" alt=""></a>
       </div>
       <div class="col-lg-4">
-        <a href="#"><img src="img/05.jpg" alt=""></a>
+        <a href="#"><img src="./website/img/05.jpg" alt=""></a>
       </div>
       <div class="col-lg-4">
-        <a href="#"><img src="img/06.jpg" alt=""></a>
+        <a href="#"><img src="./website/img/06.jpg" alt=""></a>
       </div>
     </div>
 
@@ -141,14 +141,14 @@
   </div>
 
   <!-- JavaScript Libraries -->
-  <script src="lib/jquery/jquery.min.js"></script>
-  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
-  <script src="lib/php-mail-form/validate.js"></script>
-  <script src="lib/easing/easing.min.js"></script>
-  <script src="lib/chart/chart.js"></script>
+  <script src="./website/lib/jquery/jquery.min.js"></script>
+  <script src="./website/lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="./website/lib/php-mail-form/validate.js"></script>
+  <script src="./website/lib/easing/easing.min.js"></script>
+  <script src="./website/lib/chart/chart.js"></script>
 
   <!-- Template Main Javascript File -->
-  <script src="js/main.js"></script>
+  <script src="./website/js/main.js"></script>
 
 </body>
 </html>
